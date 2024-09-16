@@ -1,0 +1,20 @@
+container {
+  padding: 10px 120px 120px;
+}
+.location {
+  padding: 0 120px 0;
+}
+.location1 {
+  padding: 0 130px 0;
+}
+.easy {
+  background-image: url(https://images.ctfassets.net/k0lk9kiuza3o/4GLvmz2jDBcfrak20CJy2G/88832f4d63bab827cf6d8b42fc72e1cb/Calendly-logo-blog-hero.jpg);
+  height: 300px;
+  width: 100%;
+}
+.text {
+  padding: 80px;
+}
+.location2 {
+  padding: 40px 100px 0;
+}

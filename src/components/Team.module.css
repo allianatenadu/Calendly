@@ -1,0 +1,84 @@
+/* Team.module.css */
+
+.teamContainer {
+  margin: 20px;
+}
+
+.navbarBrand {
+  display: flex;
+  align-items: center;
+}
+
+.navbarBrand img {
+  border-radius: 50%;
+}
+
+.navLink {
+  color: #000;
+}
+
+.navLink:hover {
+  color: #007bff;
+}
+
+.textDark {
+  color: #000;
+}
+
+.textPrimary {
+  color: #007bff;
+}
+
+.btnPrimary {
+  background-color: #007bff;
+  color: white;
+  border-radius: 50px;
+  border: none;
+  padding: 10px 20px;
+}
+
+.btnOutlineDark {
+  border: 1px solid #000;
+  color: #000;
+  border-radius: 50px;
+  padding: 10px 20px;
+}
+
+.cardShadow {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.cardBody {
+  padding: 15px;
+}
+
+.selectStyle {
+  padding: 10px;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.location {
+  margin-top: 20px;
+}
+
+.cardTitle {
+  font-size: 1.25rem;
+}
+
+.cardText {
+  font-size: 0.875rem;
+}
+
+.cardLink {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.cardLink:hover {
+  text-decoration: underline;
+}
